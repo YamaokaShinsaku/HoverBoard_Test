@@ -3310,7 +3310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34e33f2d0abb9664e9f8d44bebc2571f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  multipuler: 2.4
+  multipuler: 2.5
   moveForce: 5000
   turnTorque: 2500
   anchors:
